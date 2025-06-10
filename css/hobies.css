@@ -17,6 +17,7 @@ header {
   text-align: center;
   border-bottom: 2px solid #9500ff;
   box-shadow: 0 2px 10px #9500ff33;
+  display:flex;
 }
 
 /* NAVBAR */

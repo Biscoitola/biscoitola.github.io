@@ -31,6 +31,7 @@ header {
   padding: 10px; 
   text-align: center; 
   border-bottom: 1px solid #fff; 
+  display:flex;
 }
 
 /* Estilos para o título dentro do header */
